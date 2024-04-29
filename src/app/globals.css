@@ -17,6 +17,7 @@
 }
 
 body {
+  font-family: "DIN Next W1G Medium";
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
